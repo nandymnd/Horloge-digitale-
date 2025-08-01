@@ -11,10 +11,47 @@ Les Fonctionnalités :
 - Mise à jour automatique chaque seconde
 
 ----------------------------------------------------
+La Structure : 
+horloge-digitale/
+- index.html
+- style.css
+- script.js
+- README.md
+---------------------------------------------------
 Les Technologies utilisées : 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript 
 
 ----------------------------------------------------
+TO DO 
+- Thèmes clairs et sombres
+- Ajouter un bouton pour changer le format 12h|24h
 
+----------------------------------------------------
+Digital-Clock
+
+Project: Creating a Digital Clock (Beginner)
+A simple and elegant digital clock developed using HTML, CSS, and JavaScript. It displays the current time in real-time in HH:MM:SS format.
+----------------------------------------------------
+Features:
+Real-time clock display
+24-hour format (can be adapted to 12-hour)
+Responsive and modern design
+Automatic updates every second
+----------------------------------------------------
+Structure:
+digital-clock/
+index.html
+style.css
+script.js
+README.md
+--------------------------------------------------
+Technologies Used:
+HTML5
+CSS3
+JavaScript
+-------------------------------------------------
+TO DO:
+Light & dark themes
+Add a button to switch between 12-hour and 24-hour formats
